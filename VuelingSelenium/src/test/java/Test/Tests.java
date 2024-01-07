@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 import Page.PageHome;
 import Page.PageRegister;
 
-//test
+
 public class Tests extends Conditions{
 	
 	@Test(description="Ingresar a la página, aceptar cookies e ingresar a registrarse")
